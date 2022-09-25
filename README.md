@@ -1,4 +1,4 @@
-# Programming-for-AI
+# Programming for AI
 
 PAI_Lab_01 Python Basics-I
 
